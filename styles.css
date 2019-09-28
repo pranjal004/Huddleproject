@@ -1,0 +1,257 @@
+.container-fluid {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-left {
+  position: absolute;
+  margin-left: 5%;
+  top: 30px;
+  left: 16px;
+}
+.top-right {
+  position: absolute;
+  top: 30px;
+  right:8%;
+}
+
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+}
+.imgmoc {
+  width: 600px;
+}
+
+/* h2 */
+.h1{
+  color: #382039;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 27%;
+  left: 20px;
+}
+.head1{
+font-family:"Montserrat-Black", sans-serif;
+margin-left: 5%;
+text-align: left;
+font-size: 3.2rem;
+line-height:1.5;
+}
+
+/* para */
+.para1{
+  color: #848484;
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  text-align: left;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+
+.btn{
+  position: absolute;
+  left: 7%;
+  color: #fff;
+  background-color: #E8308C;
+  border-radius: 40px;
+}
+
+
+/* Boostrap Buttons Styling */
+
+.btn-default {
+  position: relative;
+  color: #000;
+  font-family: "Montserrat-Black", sans-serif;
+  font-weight: bold;
+  background-color: #fff;
+  border-radius: 50px;
+}
+
+.btn-default:hover {
+  color: #FFF;
+  background: #848484;
+}
+
+/* features */
+#features{
+  width: 75%;
+  margin: 7% 5% 3% 5%;
+}
+
+.h2{
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.para2{
+  color: #848484;
+  margin-top: 2%;
+  margin-right: 50%;
+  margin-left: 5%;
+  text-align: left;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.fdiv{
+  position: relative;
+  padding: 12% 3% 12% 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 5px 5px #e4e4e4;
+
+}
+
+.imggt{
+  position: absolute;
+  bottom: 10%;
+  left: 55%;
+  width: 40%;
+}
+
+/* fconv */
+
+#fconv{
+  width: 75%;
+  margin: 5% 5% 3% 5%;
+
+}
+.fcdiv{
+  position: relative;
+  padding: 12% 3% 12% 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 5px 5px #e4e4e4;
+}
+.align{
+  text-align: right;
+  color: #848484;
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 50%;
+  font-weight: bold;
+  font-size: 0.9rem;
+
+
+}
+.head2{
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 2.2rem;
+  font-weight: 600;
+  padding-right: 5%;
+  text-align: right;
+  line-height:1.5;
+}
+.imgfc{
+  position: absolute;
+  bottom: 10%;
+  right: 57%;
+  width: 40%;
+}
+
+/* users */
+#users{
+  width: 75%;
+  margin: 5% 5% 3% 5%;
+}
+.udiv{
+  position: relative;
+  padding: 10% 3% 10% 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 5px 5px #e4e4e4;
+}
+
+/* ready */
+#ready{
+  width: 75%;
+  margin: 7% 5% 0 5%;
+}
+
+.rdiv{
+  position: relative;
+  padding: 10% 3% 8% 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 5px 5px #e4e4e4;
+  z-index: 100;
+}
+.rh{
+  font-family: "Montserrat-Black", sans-serif;
+  text-align: center;
+  font-weight: 600;
+}
+.rbtn{
+  position: absolute;
+  margin: 2% 0 3% 0;
+  padding: 1% 0 1% 0;
+  width: 30%;
+  left: 37%;
+  color: #fff;
+  background-color: #E8308C;
+  border-radius: 60px;
+}
+/* footer */
+.bottom-cont{
+  position: relative;
+  margin-top: 0;
+  padding:  0 0 30px 0;
+  background-color: #242424;
+  z-index: -100;
+}
+.lpara{
+  color: #fff;
+  margin: 5% 11% 2% 7%;
+  padding-left: 3%;
+  text-align: left;
+  display: inline-block;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.icon{
+  position: absolute;
+  bottom:  65%;
+  margin: 9% 1% 2% 5%;
+ padding: 3% 3% 0 0;
+}
+
+.icon2{
+  position: absolute;
+  bottom: 33%;
+  margin: 3% 1% 2% 5%;
+
+}
+.icon3{
+  position: absolute;
+  bottom: 11%;
+  margin: 3% 1% 2% 5%;
+}
+.abot{
+  color: #fff;
+  display: inline-block;
+}
+.some{
+  margin: 3% 23% 2% 7%;
+}
+
+.copy{
+  position: absolute;
+  bottom: 0;
+  font-size: 0.8rem;
+  left: 80%;
+  color: #fff;
+}
